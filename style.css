@@ -1,3 +1,7 @@
 h1{
-    color:aqua
+    color:aqua;
+    background-color: antiquewhite;
+    font-size: medium;
+    border: 2em;
 }
+
